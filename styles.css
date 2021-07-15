@@ -1,0 +1,19 @@
+body{
+    margin:0;
+}
+#screen{
+    padding:0;
+    background-color: black;
+    height:100vh;
+    background-size: 100% 100%;
+}
+p{
+    margin:auto;
+    color:white;
+    border-style: dotted;
+    padding:0px;
+    position: relative;
+    top:40%;
+    width:60%;
+    font-size: 20px;
+}
